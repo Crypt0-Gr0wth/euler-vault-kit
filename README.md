@@ -1,3 +1,7 @@
+## Parcours francais
+
+Ce depot contient un parcours pedagogique en francais dans docs/fr/ : lecture commentee de l Euler Vault Kit, le kit de construction de coffres de credit (credit vaults) d Euler, un mecanisme par chapitre, sans aucune installation ni execution du projet.
+
 [![License](https://img.shields.io/badge/License-Business%20Source-green.svg)](https://github.com/euler-xyz/euler-vault-kit/blob/master/LICENSE)
 
 # Euler Vault Kit
